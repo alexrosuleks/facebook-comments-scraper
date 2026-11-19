@@ -1,0 +1,16 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.facebook.com/humansofnewyork/posts/pfbid0BbKbkisExKGSKuhee9a7i86RwRuMKFC8NSkKStB7CsM3uXJuAAfZLrkcJMXxhH4Yl"
+    }
+  ],
+  "resultsLimit": 10,
+  "postsPerPage": 10,
+  "viewOption": "RANKED_UNFILTERED",
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}

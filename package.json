@@ -1,0 +1,20 @@
+{
+  "name": "facebook-comments-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Facebook Comments Scraper: Scrape comments and replies from public Facebook posts, reels and videos: text, author, date and reactions. No login or cookies needed. Export to JSON or CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "facebook"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
